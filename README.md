@@ -1,5 +1,5 @@
 
-![React Developer || Enthusiast in Web Application Development](https://i.ibb.co/XjpZ4XS/5857a2d989e0236b75376b18a2e046a683917321.jpg)
+![React Developer || Enthusiast in Web Application Development](https://i.ibb.co/ZxhZmXN/git-hub-banner.png)
 <h1 align="center">Hi 👋, It's Tamim Hossain</h1>
 <h3 align="center">React Developer || Web Application Development</h3>
 
