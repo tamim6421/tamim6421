@@ -1,7 +1,7 @@
 
-<div width="full">
+
   ![React Developer || Enthusiast in Web Application Development](https://i.ibb.co/ZxhZmXN/git-hub-banner.png)
-</div>
+
 <h1 align="center">Hi 👋, It's Tamim Hossain</h1>
 <h3 align="center">React Developer || Web Application Development</h3>
 
@@ -34,16 +34,12 @@
 <h2 align="left">📈 Current Stats</h2>
 <div>
   <p><img align="left"  width="full"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim6421&show_icons=true&locale=en&layout=compact" alt="tamim6421" /></p>
-</div>
-
-<div>
-  <p>&nbsp;<img align="center" width="full" src="https://github-readme-stats.vercel.app/api?username=tamim6421&show_icons=true&locale=en" alt="tamim6421" /></p>
-</div>
-
-
-<div>
+   <p>&nbsp;<img align="center" width="full" src="https://github-readme-stats.vercel.app/api?username=tamim6421&show_icons=true&locale=en" alt="tamim6421" /></p>
   <p><img align="center" width="full" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim6421&show_icons=true&locale=en" alt="tamim6421" /></p>
 </div>
+
+
+
 
 
 
