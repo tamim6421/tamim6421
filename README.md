@@ -33,7 +33,7 @@
 <p><img align="left"  width="full"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim6421&show_icons=true&locale=en&layout=compact" alt="tamim6421" /></p>
 
 <p>&nbsp;<img align="center" width="full" src="https://github-readme-stats.vercel.app/api?username=tamim6421&show_icons=true&locale=en" alt="tamim6421" /></p>
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tamim6421)  
+ <p>![GitHub streak stats](https://streak-stats.demolab.com/?user=tamim6421) </p>
 
 
 
