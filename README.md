@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, It's Tamim Hossain</h1>
 <h3 align="center">React Developer || Web Application Development|| JavaScript Developer</h3>
+<p>I am a React developer with a specialization in the MERN stack, actively seeking opportunities to apply my development expertise.</p>
 
 
 
