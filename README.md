@@ -3,7 +3,7 @@
   ![React Developer || Enthusiast in Web Application Development](https://i.ibb.co/7krVhxr/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack.jpg)
 
 <h1 align="center">Hi 👋, It's Tamim Hossain</h1>
-<h3 align="center">React Developer || Web Application Development</h3>
+<h3 align="center">React Developer || Web Application Development|| JavaScript Developer</h3>
 
 
 
