@@ -5,7 +5,7 @@
 
 
 
-
+<h2 align="left">👀 Current overview</h2>
 - 🔭 I’m currently working on **Web Application**
 
 - 🌱 I’m currently learning **Node JS & JavaScript Problem Solving**
